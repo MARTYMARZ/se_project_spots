@@ -13,3 +13,16 @@
 .footer__paragraph {
   margin: 0;
 }
+
+@media screen and (max-width: 1317px) {
+  .profile {
+    max-width: 850px;
+  }
+}
+
+
+@media screen and (max-width: 627px) {
+  .footer {
+      max-width: 288px;
+  }
+}
